@@ -21,8 +21,8 @@
 - 單獨銷售該字型。
 - 在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授權許可發行該字型。
 
-## 群友銳評
-![a](https://github.com/ItMarki/MisekiBitmap/blob/main/images/点阵艺术.png)
-
 ## 鳴謝
 - [門真なむ](http://littlelimit.net)提供原字型。
+
+## <s>群友銳評</s>
+![a](https://github.com/ItMarki/MisekiBitmap/blob/main/images/点阵艺术.png)
