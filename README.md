@@ -24,6 +24,7 @@
 
 ## 鳴謝
 - [門真なむ](http://littlelimit.net)提供原字型。
+- scott0107000的[精品點陣體](https://github.com/scott0107000/BoutiqueBitmap7x7)提供注音符號作為藍本。
 
 ## <s>群友銳評</s>
 ![a](https://github.com/ItMarki/MisekiBitmap/blob/main/images/点阵艺术.png)
